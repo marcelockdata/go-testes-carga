@@ -1,4 +1,4 @@
-module github.com/marcelockdata/go-testes-carga.git
+module github.com/marcelockdata/go-testes-carga
 
 go 1.23.4
 
