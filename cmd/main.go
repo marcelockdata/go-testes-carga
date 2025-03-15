@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/marcelockdata/go-testes-carga./internal/report"
 	"github.com/marcelockdata/go-testes-carga/internal/httpclient"
+	"github.com/marcelockdata/go-testes-carga/internal/report"
 	"github.com/spf13/cobra"
 )
 
